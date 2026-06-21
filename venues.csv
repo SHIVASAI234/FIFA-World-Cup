@@ -1,0 +1,17 @@
+Venue_id,Stadium_name,City,Country,Capacity,Latitude,Longitude,Elevation_meters
+1,Mexico City Stadium (Estadio Azteca),Mexico City,MEX,"80,824",19.3031,-99.1506,"2,200"
+2,New York New Jersey Stadium (MetLife Stadium),East Rutherford,USA,"82,500",40.8136,-74.0744,7
+3,Los Angeles Stadium (SoFi Stadium),Inglewood,USA,"70,240",33.9535,-118.3390,30
+4,Dallas Stadium (AT&T Stadium),Arlington,USA,"80,000",32.7473,-97.0928,184
+5,Vancouver Stadium (BC Place),Vancouver,CAN,"54,500",49.2768,-123.1120,9
+6,Toronto Stadium (BMO Field),Toronto,CAN,"30,000",43.6328,-79.4186,76
+7,Guadalajara Stadium (Estadio Akron),Zapopan,MEX,"48,070",20.6811,-103.4628,"1,566"
+8,Monterrey Stadium (Estadio BBVA),Guadalupe,MEX,"53,500",25.6690,-100.2444,538
+9,Atlanta Stadium (Mercedes-Benz Stadium),Atlanta,USA,"71,000",33.7553,-84.4017,318
+10,Boston Stadium (Gillette Stadium),Foxborough,USA,"65,878",42.0909,-71.2643,87
+11,Houston Stadium (NRG Stadium),Houston,USA,"72,220",29.6847,-95.4082,14
+12,Kansas City Stadium (Arrowhead Stadium),Kansas City,USA,"76,416",39.0489,-94.4839,264
+13,Miami Stadium (Hard Rock Stadium),Miami Gardens,USA,"64,767",25.9581,-80.2389,2
+14,Philadelphia Stadium (Lincoln Financial Field),Philadelphia,USA,"69,796",39.9008,-75.1675,3
+15,San Francisco Bay Area Stadium (Levi's Stadium),Santa Clara,USA,"68,500",37.4033,-121.9698,8
+16,Seattle Stadium (Lumen Field),Seattle,USA,"69,000",47.5952,-122.3316,3
